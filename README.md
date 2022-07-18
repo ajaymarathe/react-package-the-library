@@ -1,4 +1,4 @@
-# react-package-the-library
+# React Package the Library
 Hi there, it's small snippets docs to learn about `react package the library`, thanks...
 
 1) `npx create-react-library` - Hit this command, It will ask some questions like package name, license and all... answer's those commands and hit enter it will create library.
